@@ -23,10 +23,6 @@ RK Tech Fever is a front-end focused **E-commerce website** designed to showcase
 
 ---
 
-
-https://github.com/user-attachments/assets/43278c81-0aab-42f1-a2c4-13802e8ab6ed
----
-
 ### How to Run Locally
 
 1. Clone the repository:
@@ -51,6 +47,7 @@ https://github.com/user-attachments/assets/43278c81-0aab-42f1-a2c4-13802e8ab6ed
 
 For any queries or contributions, feel free to open an issue or contact me at rishikumarthakur96@gmail.com .
 
+### Demo
 ---
 https://github.com/user-attachments/assets/43278c81-0aab-42f1-a2c4-13802e8ab6ed
 
