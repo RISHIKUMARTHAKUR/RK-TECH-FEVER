@@ -25,9 +25,7 @@ RK Tech Fever is a front-end focused **E-commerce website** designed to showcase
 
 ### Demo
 
-[[Live Demo Link](#)  *(Add your hosted site URL here)*
-](https://github.com/user-attachments/assets/43278c81-0aab-42f1-a2c4-13802e8ab6ed
-)
+[[Live Demo Link](#)  *(https://github.com/user-attachments/assets/43278c81-0aab-42f1-a2c4-13802e8ab6ed )*]
 ---
 
 ### How to Run Locally
