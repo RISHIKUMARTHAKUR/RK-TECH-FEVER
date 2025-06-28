@@ -5,7 +5,11 @@
 RK Tech Fever is a front-end focused **E-commerce website** designed to showcase and sell technical gadgets, primarily laptops. The project highlights modern UI/UX design principles using core web technologies to deliver a smooth, responsive shopping experience.
 
 ---
+### Demo
+---
+https://github.com/user-attachments/assets/43278c81-0aab-42f1-a2c4-13802e8ab6ed
 
+---
 ### Tools & Technologies Used
 
 * **HTML5** — For semantic and structured webpage markup.
@@ -47,9 +51,7 @@ RK Tech Fever is a front-end focused **E-commerce website** designed to showcase
 
 For any queries or contributions, feel free to open an issue or contact me at rishikumarthakur96@gmail.com .
 
-### Demo
----
-https://github.com/user-attachments/assets/43278c81-0aab-42f1-a2c4-13802e8ab6ed
+
 
 
 
